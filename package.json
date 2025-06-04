@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "address-smart-parse": "^3.0.3",
+    "express": "^5.1.0"
+  }
+}
